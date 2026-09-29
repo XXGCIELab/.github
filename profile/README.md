@@ -14,9 +14,10 @@ XXGCIELab 取自 XinXiang GongCheng（新乡工程学院）与 Information Engin
 
 | 仓库 | 简介 |
 |------|------|
-| [xxgc-jw-grab](https://github.com/XXGCIELab/xxgc-jw-grab) | 教务系统抢课工具，Tkinter 图形界面与 Rust CLI 双入口，附 HTTP 协议分析技术文档 |
+| [xxgc-jw-grab](https://github.com/XXGCIELab/xxgc-jw-grab) | 教务系统抢课与退选工具，Tkinter 图形界面与 Rust CLI 双入口，附 HTTP 协议分析技术文档 |
 | [points-management-system-backend](https://github.com/XXGCIELab/points-management-system-backend) | 积分管理系统后端 |
 | [points-management-system-frontend](https://github.com/XXGCIELab/points-management-system-frontend) | 积分管理系统前端 |
+| [Shandong_runhub](https://github.com/XXGCIELab/Shandong_runhub) | 移动应用协议逆向与自动化工程实践：签名与加密体系分析、真机抓包工具链、Web 控制台 |
 
 部分仓库面向校内场景，当前为私有仓库。
 
